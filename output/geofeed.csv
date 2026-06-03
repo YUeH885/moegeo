@@ -1,6 +1,12 @@
 # Geofeed Community Aggregation by MoeDove LLC
-# Generated at: 2026-06-02T06:38:46.010986+00:00
-# Total prefixes: 283
+# Generated at: 2026-06-03T06:49:16.383994+00:00
+# Total prefixes: 287
+
+# AS150184 - OwONetwork - Last change: Tue, 02 Jun 2026 12:58:03 GMT
+2406:840:e301::/48,HK,,Hong Kong,
+2406:840:e302::/48,HK,,Hong Kong,
+2a0f:1cc5:3700::/44,HK,,Hong Kong,
+2a0f:1cc5:3710::/44,TW,,Taipei,
 
 # AS153376 - Jilin Province Brick Business Service Limited - Last change: Thu, 28 May 2026 07:24:37 GMT
 2406:840:e600::/44,CN,CN-JL,Changchun,
